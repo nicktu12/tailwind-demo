@@ -1,4 +1,6 @@
-# tailwind2
+# Vue 3 + Tailwind.css Starter
+
+https://medium.com/@marienfeldtom/using-vue-3-with-tailwind-css-f5294ffa6285
 
 ## Project setup
 ```
@@ -19,4 +21,4 @@ npm run build
 ```
 npm run lint
 ```
-"# vue3-tailwind-starter" 
+"# vue3-tailwind-starter"
