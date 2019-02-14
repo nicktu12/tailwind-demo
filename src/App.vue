@@ -9,7 +9,7 @@
           <p class="text-sm leading-tight text-grey-dark">Developer at NothingWorks Inc.</p>
         </div>
         <div>
-          <button class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-purple text-purple hover:bg-purple hover:text-white">Message</button>
+          <button class="text-xs font-semibold rounded-full px-4 py-1 leading-normal bg-white border border-green text-green hover:bg-green hover:text-white">Message</button>
         </div>
       </div>
     </div>
